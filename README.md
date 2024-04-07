@@ -8,9 +8,9 @@ Luego se le pide "haz que los elementos de las otras secciones se oculten al sel
 Después, se pide añadir a la siguiente sección una descripción de las imágenes para que se vean al lado derecho:  <section id="galeria" class="hidden">
         <h2>Galería</h2>
         <div class="gallery">
-            <img src="imagen1.png" alt="Obra de arte 1">
-            <img src="imagen2.png" alt="Obra de arte 2">
-            <img src="imagen3.png" alt="Obra de arte 3">
+            <img src="imagen1.jpg" alt="Obra de arte 1">
+            <img src="imagen2.jpg" alt="Obra de arte 2">
+            <img src="imagen3.jpg" alt="Obra de arte 3">
             <img src="imagen4.jpg" alt="Obra de arte 4">
         </div>
     </section>
